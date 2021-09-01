@@ -1,7 +1,15 @@
 .App {
   text-align: center;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: rgb(248, 250, 252);
+  border-radius: 5%;
 }
-
+.App-dark{
+  background: rgb(18, 31, 31);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
