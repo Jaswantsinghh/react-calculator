@@ -11,7 +11,7 @@
     cursor: pointer;
 }
 .btn:hover{
-    box-shadow: inset 3px 4px 7px #bebebe4f, -3px -4px 7px 0px #ffffff;
+    box-shadow: inset 3px 4px 7px #bebebe4f,inset -3px -4px 7px 0px #ffffff;
 }
 .btn:active{
     box-shadow: none;
@@ -37,7 +37,7 @@
     box-shadow: 3px 4px 7px #000000, -3px -4px 7px 0px #1e3636;
 }
 .btn-shadow:hover{
-    box-shadow: inset 3px 4px 7px #000000, -3px -4px 7px 0px #1e3636;
+    box-shadow: inset 3px 4px 7px #000000, inset -3px -4px 7px 0px #1e3636;
 }
 .btn-shadow:active{
     box-shadow: none;
